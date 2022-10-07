@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE poblacion>
+<población_la_florida>
+    <Familia1>
+        <miembros>
+            <Hijo1>
+                <nombre>Carlos</nombre>
+                <fecha_nacimiento>12/02/2010</fecha_nacimiento>
+            </Hijo1>
+            <Hijo2>
+                <nombre>Pepe</nombre>
+                <fecha_nacimiento>26/07/2005</fecha_nacimiento>
+            </Hijo2>
+            <Padre>
+                <nombre>Fausto</nombre>
+                <fecha_nacimiento>10/11/1975</fecha_nacimiento>
+            </Padre>
+            <Madre>
+                <nombre>Alicia</nombre>
+                <fecha_nacimiento>06/03/1978</fecha_nacimiento>
+            </Madre>
+            <Abuelo>
+                <nombre>Benedicto</nombre>
+                <fecha_nacimiento>09/06/1950</fecha_nacimiento>
+            </Abuelo>
+            <Abuela>
+                <nombre>Leticia</nombre>
+                <fecha_nacimiento>30/09/1948</fecha_nacimiento>
+            </Abuela>
+        </miembros>
+
+        <coches>
+            <coche_1>Honda civic Eg6</coche_1>
+            <coche_2>Renault Express</coche_2>
+            <coche_3>Renault megane</coche_3>
+        </coches>
+    </Familia1>
+
+
+
+    <Familia2>
+        <miembros>
+            <Hijo1>
+                <nombre>Tuco</nombre>
+                <fecha_nacimiento>08/06/1994</fecha_nacimiento>
+            </Hijo1>
+            <Hijo2>
+                <nombre>Lalo</nombre>
+                <fecha_nacimiento>09/04/1990</fecha_nacimiento>
+            </Hijo2>
+            <Padre>
+                <nombre>Héctor</nombre>
+                <fecha_nacimiento>16/11/1963</fecha_nacimiento>
+            </Padre>
+            <Madre>
+                <nombre>Leire</nombre>
+                <fecha_nacimiento>19/10/1968</fecha_nacimiento>
+            </Madre>
+        </miembros>
+
+        
+
+    </Familia2>
+</población_la_florida>
