@@ -1,0 +1,46 @@
+<!DOCTYPE ciclodam>
+
+<ciclodam>
+    <modulos>
+        <asignaturas imartidas = "Lenguajes de marcas y Sistemas de gestión de la información" caracter = "obligatorias" horario = "4h semanales"></asignaturas>
+        <fechas>
+            <fechainicio>15/09/2010</fechainicio>
+            <fechafin>20/06/2011</fechafin>
+        </fechas>
+
+        <alumnosmatric>
+            <alumno1>
+                <nombre>Ana Fernández Gutiérrez</nombre>
+                <nif>16965696L</nif>
+                <tlf>789654321</tlf>
+                <email>ana.fdezgtrrez@hotmail.com</email>
+                <direc>
+                    <calle>C/ El Percebe</calle>
+                    <num>13</num>
+                    <cp>39302</cp>
+                    <ciudad>Santander</ciudad>
+                </direc>
+                <faltasasistencia/>
+                <notas/>
+            </alumno1>
+
+
+           <alumno2>
+                <nombre>Pepito Grillo</nombre>
+                <nif>98765432H</nif>
+                <tlf>656566555</tlf>
+                <email>yhyh@yahoo.com</email>
+                <direc>
+                    <calle>Avd. El Pez</calle>
+                    <num>15</num>
+                    <cp>39401</cp>
+                    <ciudad>Suances</ciudad>
+                </direc>
+                <faltasasistencia/>
+                <notas>apto</notas>
+            </alumno2>
+        </alumnosmatric>
+
+    </modulos>
+
+</ciclodam>

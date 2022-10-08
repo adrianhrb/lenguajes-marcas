@@ -1,0 +1,43 @@
+<agendacontactos>
+
+    <persona1>
+        <nombre>Relleanr nombre</nombre>
+        <dirección>Rellenar dirección</dirección>
+        <telefonos>
+            <casa>Rellenar número casa</casa>
+            <movil>Rellenar número móvil</movil>
+            <trab>Rellenar número trabajo</trab>
+        </telefonos>
+    </persona1>
+
+    <persona2>
+        <nombre>Relleanr nombre</nombre>
+        <dirección>Rellenar dirección</dirección>
+        <telefonos>
+            <casa>Rellenar número casa</casa>
+            <movil>Rellenar número móvil</movil>
+            <trab>Rellenar número trabajo</trab>
+        </telefonos>
+    </persona2>
+
+       <persona3>
+        <nombre>Relleanr nombre</nombre>
+        <dirección>Rellenar dirección</dirección>
+        <telefonos>
+            <casa>Rellenar número casa</casa>
+            <movil>Rellenar número móvil</movil>
+            <trab>Rellenar número trabajo</trab>
+        </telefonos>
+    </persona3>
+
+       <personan>
+        <nombre>Relleanr nombre</nombre>
+        <dirección>Rellenar dirección</dirección>
+        <telefonos>
+            <casa>Rellenar número casa</casa>
+            <movil>Rellenar número móvil</movil>
+            <trab>Rellenar número trabajo</trab>
+        </telefonos>
+    </personan>
+
+</agendacontactos>
