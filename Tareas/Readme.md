@@ -6,4 +6,6 @@
 ***Tarea 5:*** Crea una página HTML que presente el aspecto que se muestra en la imagen. Usa solo
 elementos HTML. [Documento](Tarea5/prueba1.html)  
 ***Tarea 6:*** Al código de la tarea 1, añadele algunos comportamientos utilizando etiquetas meta. [Documento]()
+***Tarea 5 y 6:*** Crea una página HTML que presente el aspecto que se muestra en la imagen. Usa solo
+elementos HTML. [Documento](Tarea5/prueba1.html) [Documento2](Tarea6/prueba2.html)
 
