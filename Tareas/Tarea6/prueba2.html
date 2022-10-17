@@ -11,10 +11,28 @@
 </head>
 
 <body>
-    <h2>ENCABEZADO</h2>
-    <p style="background-color:aquamarine;">Este párrafo será visible en el navegador</p>
-    <p contenteditable spellcheck="true" tabindex="1">Este parrafo tiene faltas de ortografia y ES EDITABLE</p>
-    <p lang="en" translate="no">This text is written in english</p>
+    <header style="background-color:darkred">
+        <h2 id="encabezado" class="rojo">ENCABEZADO</h2> 
+    </header>
+
+    <nav style="background-color:coral">
+        <a href="/html/">HTML</a> |
+        <a href="/css/">CSS</a> |
+        <a href="/js/">JavaScript</a> |
+        <a href="/python/">Python</a>
+    </nav>
+
+    <section style="background-color:yellow">
+        <article style="background-color:green">
+            <p class="rojo">Este párrafo será visible en el navegador</p>
+        </article>
+        <article style="background-color:green">
+            <p contenteditable spellcheck="true" tabindex="1">Este parrafo tiene faltas de ortografia y ES EDITABLE</p>
+        </article> 
+    </section>
+    <aside style="background-color:aqua">
+        <p lang="en" translate="no">This text is written in english</p>
+    </aside>
     <p hidden>esto no se mostrará en el navegador</p>
 
     <input type="text" tabindex="2">
