@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario3</title>
+</head>
+<body>
+    <form name="Formularioejer3" action="/paginaEjecutaLaAplicacion.php" method="get">
+        <p>Rellenar</p>
+        <fieldset>
+            <p><input type="radio" name="idioma" value="idiomaingles"> Inglés </p>
+            <p><input type="radio" name="idioma" value="idiomaaleman"> Alemán </p>
+            <p><input type="radio" name="idioma" value="idiomafrances"> Francés </p>
+            <p><select name="conector">
+                <option value="USB">USB</option>
+                <option value="Paralelo">Paralelo</option>
+                <option value="ps2">PS2</option>
+            </select>
+            <p>Nombre <input type="text" name="Nombre"></p>
+            <p>Apellidos <input type="text" name="Apellidos"></p>
+        </fieldset>
+
+        <p>Indique sus preferencias por favor</p>
+        <fieldset>
+        <p><select multiple name="sexo">
+            <option>Hombre</option>
+            <option>Mujer</option>
+        </select></p>
+        <p><input type="checkbox" name="sexo" value="sexomujer"> Mujer</p>
+        <p><input type="checkbox" name="sexo" value="sexohombre">Hombre</p>
+        <p>Elija una fecha: <input type="date"></p>
+    </form>
+</body>
+</html>
