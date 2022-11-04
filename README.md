@@ -1,5 +1,5 @@
 # **Lenguajes-marcas**
-![](https://blogsaverroes.juntadeandalucia.es/marcas1asir/files/2018/10/lenguajes-de-marcas.jpg)
+![](https://www.ticarte.com/sites/su/styles/large/public/users/7/teaser/code-markup.jpg?itok=C-paSxF4)
 ## ***DESCRIPCIÓN***
 
 Repositorio dedicado a la asignatura de lenguaje de marcas
