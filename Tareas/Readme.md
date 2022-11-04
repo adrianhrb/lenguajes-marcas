@@ -11,5 +11,6 @@ elementos HTML. [Documento](Tarea5/prueba1.html) [Documento2](Tarea6/prueba2.htm
 ***Tarea 7:*** Creación de tablas. [Tabla 1](Tarea7/pruebatabla.html) || [Tabla 2](Tarea7/pruebatabla2.html) || [Tabla 3](Tarea7/pruebatabla3.html)  
 ***Tarea 8:*** Formularios HTML. [Formulario 1](Tarea8/Herrera_Brito_Adrian_Formulario1.html) || [Formulario 2](Tarea8/Herrera_Brito_Adrian_Formulario2.html) || [Formulario 3](Tarea8/Herrera_Brito_Adrian_Formulario3.html)  
 ***Tarea 9:*** Tarea de multimedia [Multimedia](Tarea9/multimedia.html) y Tarea de Iframes [Iframes](Tarea9/iframe.html)  
+***Tarea 10:*** Pruebas de xhtml y formulario entregable [Formulario](Tarea10/formulario_entrega.html) || [Prueba 1](Tarea10/prueba.html) || [Prueba 2](Tarea10/prueba.xml)  
 
 
