@@ -1,14 +1,14 @@
 h1 {
     text-transform: uppercase;
-}
+} /* En este caso, definimos que el texto cambie cualquier caracter por mayúscula */
 p {
     font-size: 1.5em;
     color:chocolate;
-}
+} /* En este caso, definimos que todo lo que esté como párrafo (<p>), la letra tenga el tamaño "1.5em" y el color "chocolate" */
 .ciudad {
     font-style: italic;
     font-weight: bolder;
-}
+} /* Lo que esté definido como ciudad tendrá como fuente "italica" y en "negrita" */
 body {
     text-align: center;
-}
+} /* Todo lo recogido en el body estará alineado en el centro */
