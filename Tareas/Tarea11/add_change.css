@@ -1,10 +1,10 @@
 h1 {
     text-transform: uppercase;
-    color: royalblue;
+    text-decoration-color:blueviolet
 } /* En este caso, definimos que el texto cambie cualquier caracter por mayúscula */
 p {
     font-size: 1.5em;
-    color:greenyellow;
+    color:yellow;
 } /* En este caso, definimos que todo lo que esté como párrafo (<p>), la letra tenga el tamaño "1.5em" y el color "chocolate" */
 .ciudad {
     font-style: italic;
@@ -13,7 +13,3 @@ p {
 body {
     text-align: center;
 } /* Todo lo recogido en el body estará alineado en el centro */
-
-#uno {
-    color:pink
-}
