@@ -13,6 +13,8 @@ elementos HTML. [Documento](Tarea5/prueba1.html) [Documento2](Tarea6/prueba2.htm
 ***Tarea 9:*** Tarea de multimedia [Multimedia](Tarea9/multimedia.html) y Tarea de Iframes [Iframes](Tarea9/iframe.html)  
 ***Tarea 10:*** Pruebas de xhtml y formulario entregable [Formulario](Tarea10/formulario_entrega.html) || [Prueba 1](Tarea10/prueba.html) || [Prueba 2](Tarea10/prueba.xml)  
 ***Tarea 11:*** Página de html, estilos CSS y ambos enlazados [html](Tarea11/app.html) || [CSS](Tarea11/add_app.css) || [Enlace de ambos num1](Tarea11/app_html%2Bcss.html)  
-***Tarea 12:*** Prueba de CSS con id en etiquetas [Página CSS](Tarea12/hola.css) || [Página HTML](Tarea12/hola.html)
+***Tarea 12:*** Prueba de CSS con id en etiquetas [Página CSS](Tarea12/hola.css) || [Página HTML](Tarea12/hola.html)  
+
+***Tarea 13:*** Tarea entregable CSS y HTML [Página](Tarea13/Herrera_Brito_Adrian.html) || [Estilo](Tarea13/Herrera_Brito_Adrian.css)
 
 
