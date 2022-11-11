@@ -1,0 +1,48 @@
+body {
+    color: #00F;
+    background-color: #CFC;
+    font: georgia, cambria, serif;
+    font-size: 16px;
+} /* Definimos a todo el body que tenga de color de fondo el verde,
+    texto en azul y la fuente que se nos indica además del tamaño */
+
+h1 {
+    color: #f00;
+    font: verdana, calibri, sans-serif;
+    font-size: 32px;
+} /* Modificamos el título grande con los requisitos pedidos */
+
+h2 {
+    color: #a00;
+    font: verdana, calibri, sans-serif
+} /* Hacemos al igual que en el anterior pero con los títulos más pequeños */
+
+/* Todos los que tienen un . al principio, son clases que hemos definido
+a cosas concretas dentro del HTML */
+
+.titles {
+    color: #060;
+} /* En esta, definimos unicamente el color del texto */
+
+.Inter {
+    font-size: 20px;
+    font-weight: bolder;
+} /* Definimos el tamaño en 20px y la negrita */
+
+.Web {
+    font-size: 20px;
+    font-weight: bolder;
+} /*Aquí igual que en la anterior */
+
+.name {
+    color: #fff;
+    background-color: #000;
+    font-style: italic;
+} /* Definimos color blanco, fondo negro y tipo de letra cursiva */
+
+.acronim {
+    color: #fff;
+    background-color: #000;
+    font-style: italic;
+} /* Definimos lo mismo que en la anterior */
+
