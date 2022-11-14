@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrega formulario</title>
+</head>
+<body>
+    <form name="entrega" action="/páginaQueEjecutaacción.php" method="get">
+        <p>Nombre: <input type="text" name="Nombre"></p> 
+        <p>Correo electrónico: <input type="email" name="Correo"></p>
+        <p>URL:<input type="text" name="web" placeholder="Escribe la URL de tu página"></p>
+        <p>Fecha:
+            <select>
+                <option></option>
+                <option value="día">Lunes</option>
+                <option value="día">Martes</option>
+                <option value="día">Miércoles</option>
+                <option value="día">Jueves</option>
+                <option value="día">Viernes</option>
+                <option value="día">Sábado</option>
+                <option value="día">Domingo</option>
+            </select>
+        </p>
+        <p>Tiempo: <input type="time" name="hora"></p>
+        <p>Fecha y hora: <input type="datetime-local"></p>
+        <p>Mes:
+            <select>
+                <option></option>
+                <option>Enero</option>
+                <option>Febrero</option>
+                <option>Marzo</option>
+                <option>Abril</option>
+                <option>...</option>
+            </select>
+        </p>
+        <p>Semana: <input type="week" name="Semana"></p>
+        <p>Número (min -10, max10): <input type="range" min="-10" max="10" name="Rango"></p>
+        <p>Teléfono: <input type="text" name="telefono"></p>
+        <p>Término de búsqueda: <input type="text" name="búsqueda"></p>
+        <p>Color favorito: <input type="color"></p>
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+</body>
+</html>

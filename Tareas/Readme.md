@@ -5,7 +5,7 @@
 ***Tarea 4:*** : Página web básicos HTML [Documento](Tarea4/Basico.html)  
 ***Tarea 5:*** Crea una página HTML que presente el aspecto que se muestra en la imagen. Usa solo
 elementos HTML. [Documento](Tarea5/prueba1.html)  
-***Tarea 6:*** Al código de la tarea 1, añadele algunos comportamientos utilizando etiquetas meta. [Documento]()
+***Tarea 6:*** Al código de la tarea 1, añadele algunos comportamientos utilizando etiquetas meta. [Documento](Tarea6/prueba2.html)
 ***Tarea 5 y 6:*** Crea una página HTML que presente el aspecto que se muestra en la imagen. Usa solo
 elementos HTML. [Documento](Tarea5/prueba1.html) [Documento2](Tarea6/prueba2.html)  
 ***Tarea 7:*** Creación de tablas. [Tabla 1](Tarea7/pruebatabla.html) || [Tabla 2](Tarea7/pruebatabla2.html) || [Tabla 3](Tarea7/pruebatabla3.html)  
@@ -15,6 +15,8 @@ elementos HTML. [Documento](Tarea5/prueba1.html) [Documento2](Tarea6/prueba2.htm
 ***Tarea 11:*** Página de html, estilos CSS y ambos enlazados [html](Tarea11/app.html) || [CSS](Tarea11/add_app.css) || [Enlace de ambos num1](Tarea11/app_html%2Bcss.html)  
 ***Tarea 12:*** Prueba de CSS con id en etiquetas [Página CSS](Tarea12/hola.css) || [Página HTML](Tarea12/hola.html)  
 
-***Tarea 13:*** Tarea entregable CSS y HTML [Página](Tarea13/Herrera_Brito_Adrian.html) || [Estilo](Tarea13/Herrera_Brito_Adrian.css)
+***Tarea 13:*** Tarea entregable CSS y HTML [Página](Tarea13/Herrera_Brito_Adrian.html) || [Estilo](Tarea13/Herrera_Brito_Adrian.css)  
+
+***Tarea 14:*** Tarea entregable repaso formularios
 
 
