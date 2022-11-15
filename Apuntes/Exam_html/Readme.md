@@ -62,23 +62,50 @@ Tenemos algunos elementos como:
 
 ## *Elementos de listas:*  
 Tenemos tres tipos de listas, desordenadas, ordenadas y de definición:  
-- ul: Lista desordenada
-- ol: Lista ordenada
-- dl: Lista de definición
-- li: Elementos de lista ordenada o desordenada
-- dt: Términos de una lista de definición 
-- dd: Definiciones de una lista de definición  
+- < ul >: Lista desordenada
+- < ol >: Lista ordenada
+- < dl >: Lista de definición
+- < li >: Elementos de lista ordenada o desordenada
+- < dt >: Términos de una lista de definición 
+- < dd >: Definiciones de una lista de definición  
 
 ## *Elementos de tablas:*  
 Las tablas son una forma habitual de presentar información de manera compacta y fácil. En general, en la tabla se muestran una serie de elementos o datos en filas y columnas. Los elementos de una tabala son:  
-- table: Delimita el contenido de la tabla
-- tr: Delimita las lineas de la tabla
-- td: Delimita el contenido de cada celda de la tabla
-- colgroup: Agrupa columnas
-- tbody: Agrupa líneas de la tabla
-- thead: Define la línea cabecera de la tabla
-- th: Delimita cada una de las celdas de la cabecera
-- tfoot: Define la fila pie de la tabla
-- caption: Añade una leyenda a la tabla  
+- < table >: Delimita el contenido de la tabla
+- < tr >: Delimita las lineas de la tabla
+- < td >: Delimita el contenido de cada celda de la tabla
+- < colgroup >: Agrupa columnas
+- < tbody >: Agrupa líneas de la tabla
+- < thead >: Define la línea cabecera de la tabla
+- < th >: Delimita cada una de las celdas de la cabecera
+- < tfoot >: Define la fila pie de la tabla
+- < caption >: Añade una leyenda a la tabla  
 
-## *Elementos de formulario:*
+## *Elementos de formulario:*  
+Los formularios permiten recoger información que el usuario introduzca.  
+- < form >: Es la etiqueta de apertura, todo lo que "recoja", es lo que va a ser enviado. Dentro le ponemos name, action (página a la que se envian), method (metodo de envío)  
+- < input type="text" >: Tenemos varios ejemplos con input como text, password, email, time, date.. Dentro del mismo ponemos name y quizá value  
+- < textarea >: Se abre una caja grande de texto para algo largo  
+- < select > y < option >: Con select abrimos un desplegable, y dentro de option todas las opciones  
+- < checkbox >: Un cuadro para seleccionar algo con un tick  
+- < input type = submit o reset >: Para enviar o eliminar todo  
+- < label >: Permite asociar cada campo del formulario a una etiqueta con su nombre  
+- < fieldset >: Agrupa los campos de formulario y los rodea con un borde  
+
+## *Multimedia:*  
+Algunas de las etiquetas más habituales son:  
+- < img src="..." >: Insertar una imagen de una página web  
+- < audio >  
+- < video >  
+- < object >: Incrtustar contenido del tipo pdf, audio, video  
+
+## *Secciones:*  
+- < header >: Contenido introductorio  
+- < aside >: Contenido relacionado con el contenido principal  
+- < footer >: Información sobre la sección como el autor  
+- < section >: Una sección genérica  
+- < article >: Elemento que se puede distribuir de forma independiente  
+- < nav >: Vinculos internos o externos, navegación en la página  
+
+## *Elemento iframe:*  
+Permite integrar una página web dentro de otra. Tiene atributos importantes como heigh, width, src, name...  La etiqueta quedaría tal que: < iframe heigh="300" width="300" name="contenido" src="listas.html" >
