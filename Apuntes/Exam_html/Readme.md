@@ -109,3 +109,8 @@ Algunas de las etiquetas más habituales son:
 
 ## *Elemento iframe:*  
 Permite integrar una página web dentro de otra. Tiene atributos importantes como heigh, width, src, name...  La etiqueta quedaría tal que: < iframe heigh="300" width="300" name="contenido" src="listas.html" >
+
+## *Hacer referencias internas:*  
+Para hacer referencias internas, deberíamos poner dos etiquetas con la de hipervínculo:
+- < a href = #abajo> Ir a la parte de abajo < /a >
+- < a name = "abajo">< /a >
