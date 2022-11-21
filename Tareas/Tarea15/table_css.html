@@ -4,22 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Prueba tabla con css</title>
+    <link href="file:/home/daw/Documentos/Repo LENGU/lenguajes-marcas/Tareas/Tarea15/table_style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <style>
-        table th, td {
-            border: 1px solid black;
-            border-collapse: collapse
-        }
-    </style>
-
+   
     <table>
-        <tr>
-            <td><b>Concepto</b></td>
-            <td><b>Primer Trimestre</b></td>
-            <td><b>Segundo semestre</b></td>
-            <td><b>Total</b></td>
+        <thead>
+            <tr>
+                <td><b>Concepto</b></td>
+                <td><b>Primer Trimestre</b></td>
+                <td><b>Segundo semestre</b></td>
+                <td><b>Total</b></td>
+            </tr>
+        </thead>
+        <tbody>
         </tr>
         <tr>
             <td>Alimentación</td>
@@ -39,12 +38,15 @@
             <td>300</td>
             <td>600</td>
         </tr>
-        <tr>
-            <td><b>Total</b></td>
-            <td><b>2650</b></td>
-            <td ><b>2080</b></td>
-            <td><b>4730</b></td>
-        </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td><b>Total</b></td>
+                <td><b>2650</b></td>
+                <td ><b>2080</b></td>
+                <td><b>4730</b></td>
+            </tr>
+        </tfoot>
     </table>
     
 </body>
