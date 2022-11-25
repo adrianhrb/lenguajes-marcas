@@ -15,7 +15,7 @@ h5 {
     }
 
 h2 {
-    color: coral;
+    color:teal;
 }
 
 h4 {
@@ -29,4 +29,11 @@ p {
 
 body{
     background-color:antiquewhite
+}
+
+/* Añadir una fuente externa para el texto */
+
+@font-face {
+    font-family: Rubik-Fold;
+    src: url("fonts/Rubik-Bold.ttf")
 }
